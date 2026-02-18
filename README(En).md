@@ -4,17 +4,20 @@
 
 <img src="https://github.com/user-attachments/assets/7a7ce3f3-20c1-4c4f-bfda-75a793b73cf0" width="500" height="auto" />
 
+### Demo Video
+[![Flax Demo](https://img.youtube.com/vi/SvSglFHLfKM/0.jpg)](https://www.youtube.com/watch?v=SvSglFHLfKM)
+
 > **ALL IN ONE**
 >
 > A WPF-based integrated dashboard designed to unify fragmented streaming environments, allowing users to enjoy content seamlessly across platforms.
 
-[한국어 문서](./README.md)
+[한국어 문서](README.md)
 
 ---
 </div>
 
 ## Key Features
-* **Integrated Platform Ranking**: Compare real-time viewer counts from both streaming platforms and view the top 1 to 48 streamers in one place.
+* **Integrated Platform Ranking**: Compare real-time viewer counts from both platforms and view the top 1 to 48 streamers in one place.
 * **Unified Search**: Search for streamers across both platforms simultaneously without having to switch between different apps or websites.
 * **Streamer Follow System**: Follow your favorite streamers regardless of their platform and manage them in a single, unified list.
 * **Real-time Live Notifications**: Receive instant alerts when your followed streamers go live.
@@ -24,7 +27,7 @@
 ## Development Status
 - All essential features have been successfully implemented.
 - Future updates will focus on minor optimizations and performance enhancements.
-- New features are planned for upcoming releases.
+- New features are also being considered for upcoming releases.
 
 ## Development Details
 * **Language**: C#
