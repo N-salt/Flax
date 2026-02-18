@@ -4,6 +4,9 @@
 
 <img src="https://github.com/user-attachments/assets/7a7ce3f3-20c1-4c4f-bfda-75a793b73cf0" width="500" height="auto" />
 
+### 시연 영상
+[![Flax Demo](https://img.youtube.com/vi/SvSglFHLfKM/0.jpg)](https://www.youtube.com/watch?v=SvSglFHLfKM)
+
 > **ALL IN ONE**
 >
 > 파편화된 스트리밍 환경을 하나로 통합하여, 사용자가 플랫폼에 구애받지 않고 콘텐츠를 즐길 수 있도록 돕는 WPF 기반 통합 대시보드입니다.
@@ -12,6 +15,8 @@
 
 ---
 </div>
+
+
 
 ## 주요 기능
 * **플랫폼 통합 랭킹**: 두 방송 플랫폼의 스트리머의 실시간 시청자 수를 비교해 1위에서 48위까지를 한 곳에서 볼 수 있습니다.
